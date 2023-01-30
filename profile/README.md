@@ -1,4 +1,6 @@
-![douban-asoul-group-log](./pic/group_log.jpg)
+<div align="center">
+    <img src="https://github.com/ASOUL-DoubanGroup-Mirror/.github/raw/main/profile/pic/group_log.jpg">
+</div>
 
 <h2>
     <p align="center">豆瓣魂组-数据镜像</p>
